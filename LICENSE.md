@@ -1,4 +1,4 @@
-# 
+# professional OneNote for Windows Plugin | voice-notes + export-options offers the most advanced OneNote for Windows plugin, with voice-notes and export-options. Ideal for Windows
 
 
 
